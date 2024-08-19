@@ -34,3 +34,6 @@ into existing workflows with a simple command-line interface.
 - **Multi-Format Support:** Extends support for popular encoded formats, ensuring broad compatibility.
 
 
+<a href="https://github.com/your-repo/contributing" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;">
+Contribute to Dec-PvD
+</a>
